@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Timeout;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
-class accidentCheckerTest {
+class AccidentCheckerTest {
 	public static InsuranceProgram insProg;
 
 	@BeforeEach // The method with this annotation should be executed before each @Test,
