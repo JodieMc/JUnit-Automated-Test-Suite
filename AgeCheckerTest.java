@@ -11,7 +11,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-class ageCheckerTest {
+class AgeCheckerTest {
 	public static InsuranceProgram insProg;
 
 	@BeforeAll // The method with this annotation should be executed before all @Test,
